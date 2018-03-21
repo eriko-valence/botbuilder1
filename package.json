@@ -1,0 +1,25 @@
+{
+  "name": "botbuilder1",
+  "version": "1.0.0",
+  "description": "getting started with bot nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriko-valence/botbuilder1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Erik Olsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eriko-valence/botbuilder1/issues"
+  },
+  "homepage": "https://github.com/eriko-valence/botbuilder1#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0"
+  }
+}
